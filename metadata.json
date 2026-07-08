@@ -1,0 +1,6 @@
+{
+  "name": "IBPS SO IT Officer Prep",
+  "description": "Comprehensive preparation portal for IBPS SO IT Officer Prelims and Mains exams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
